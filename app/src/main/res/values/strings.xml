@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Closed Pull Requests</string>
+    <string name="my_author">my_author</string>
+    <string name="my_title">my_title</string>
+    <string name="created_at">created_at</string>
+    <string name="closed_at">closed_at</string>
 </resources>
